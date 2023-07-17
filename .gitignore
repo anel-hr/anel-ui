@@ -1,3 +1,5 @@
+# ide
+.idea
 # npm
 node_modules
 # next.js build files
